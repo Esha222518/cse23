@@ -1,0 +1,14 @@
+GitHub to ec2
+
+
+pwd
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx
+https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt-get install nodejs
+git clone https://github.com/Esha222518/Esha10.git
+cd Esha10
+ls
+npm install
+node index.js
